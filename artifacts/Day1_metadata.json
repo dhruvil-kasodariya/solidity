@@ -1,0 +1,91 @@
+{
+	"compiler": {
+		"version": "0.8.24+commit.e11b9ed9"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"anonymous": false,
+				"inputs": [
+					{
+						"indexed": false,
+						"internalType": "int256",
+						"name": "oldValue",
+						"type": "int256"
+					},
+					{
+						"indexed": false,
+						"internalType": "int256",
+						"name": "newValue",
+						"type": "int256"
+					}
+				],
+				"name": "valueStted",
+				"type": "event"
+			},
+			{
+				"inputs": [],
+				"name": "getNumber1",
+				"outputs": [
+					{
+						"internalType": "int256",
+						"name": "",
+						"type": "int256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "int256",
+						"name": "_num1",
+						"type": "int256"
+					}
+				],
+				"name": "setter",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"15thfeb.sol": "Day1"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"15thfeb.sol": {
+			"keccak256": "0x8c70309ba762512ae35c389dc855f7000865c3e7b3aab200deae00626dea3cee",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://cc65188405db0af179464f51ca5f29b824b023b6b0c4be4b53030fa22f004dac",
+				"dweb:/ipfs/QmYPpdQucEwBvMeq8SsGVkFHHG7tYnk8UkEGX2arMEyA2D"
+			]
+		}
+	},
+	"version": 1
+}

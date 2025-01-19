@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.24+commit.e11b9ed9"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"artifacts/gradeSystem.sol": "G"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"artifacts/gradeSystem.sol": {
+			"keccak256": "0x4a0a040d1d9b5f7ee9f5db3573265eda279ad5ecb566d532776e53951554a3f1",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://0e18ec2f1546bca4edaa0cbcb179c3d8b482492c60be3e579e5a57a5a77fff90",
+				"dweb:/ipfs/QmZqnZJEvEfESzczZy2j7uEeXsCvwdK8pveWi1rPsxCrVd"
+			]
+		}
+	},
+	"version": 1
+}

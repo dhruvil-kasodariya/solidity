@@ -1,0 +1,65 @@
+{
+	"compiler": {
+		"version": "0.8.24+commit.e11b9ed9"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "int256",
+						"name": "mark",
+						"type": "int256"
+					}
+				],
+				"name": "getGrade",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"artifacts/gradeSystem.sol": "Grade"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"artifacts/gradeSystem.sol": {
+			"keccak256": "0x5be7329e5770cedf889cdb01e9f0f1492a837c500452978c3b9c4f37e9582942",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://fe79bef154ed2b55acb183eab62ea8851727f537072aeb8a6ee37e6be700cf0a",
+				"dweb:/ipfs/QmcwdBPGE625A15X9bEkXyERrdkoUaf7XCRVYio2o8jcEs"
+			]
+		}
+	},
+	"version": 1
+}
