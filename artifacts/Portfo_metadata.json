@@ -18,7 +18,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"Portfolio.sol": "Name"
+			"Portfolio.sol": "Portfo"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -33,11 +33,11 @@
 	},
 	"sources": {
 		"Portfolio.sol": {
-			"keccak256": "0x72cdead3604207c21d62d03470bdd2fe6cd11bbd26ce83cb98373f3d5888d18d",
+			"keccak256": "0xa3c29efef9e44fd16c97d4e5106151d81b9ac9cf864aafec815111edf68e8962",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://daa909a8ef2055b41b7480d051b18465391b0c90d10fc9e4692969759bcc48e3",
-				"dweb:/ipfs/QmXrf3wSMmzV2QWBu4NGS7zp1Tp82PrsTHfVcbJC8brnE2"
+				"bzz-raw://abb0d1b10d0240885e904540866bb22ff38beb8a748b882946284da96d9cb0f0",
+				"dweb:/ipfs/QmYiqHDKDupvKVGfCXjZ1Ma4RbHnG1dyxNhKXi3mxrFKtS"
 			]
 		}
 	},
